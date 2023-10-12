@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespace tasks", "namespace tasks.csproj", "{773B9A38-74B4-46ED-B9FA-74CA2AAB5989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "corre", "..\corre\corre.csproj", "{29D141E9-0515-47C0-960C-81C00124D7C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773B9A38-74B4-46ED-B9FA-74CA2AAB5989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773B9A38-74B4-46ED-B9FA-74CA2AAB5989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773B9A38-74B4-46ED-B9FA-74CA2AAB5989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773B9A38-74B4-46ED-B9FA-74CA2AAB5989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D141E9-0515-47C0-960C-81C00124D7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D141E9-0515-47C0-960C-81C00124D7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D141E9-0515-47C0-960C-81C00124D7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D141E9-0515-47C0-960C-81C00124D7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF8E361-ACEE-4392-9DDF-BABECF9AF38D}
+	EndGlobalSection
+EndGlobal
